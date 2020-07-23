@@ -1,5 +1,4 @@
 # MISSION MODE RULES:
-
 1. HAVE FUN!
 	1. **FUN IS REQUIRED AT ALL TIMES.**
 2. No Reverts/Quickloads
