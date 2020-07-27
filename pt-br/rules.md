@@ -1,54 +1,54 @@
 # REGRAS DO MISSION MODE
 1. DIVIRTA-SE!
-	1. **DIVERS√O … NECESS¡RIA O TEMPO TODO.**
-2. Sem Reversıes/Carregamentos R·pidos
-	1. Salvar antes de uma miss„o È permitido para levar em consideraÁ„o potenciais erros (crashing, kraken strikes).
-	2. Se um erro ocorrer, a miss„o precisa ser reiniciada, caso contr·rio, reversıes ou carreg. r·pidos n„o s„o permitidos.
-	3. Eligibilidade para recarregar sujeita ‡ votaÁ„o do chat.
-3. Crafts sÛ poder„o ser recuperados se estiverem dentro do CSK (r = 2500 m).
-	1. Caso esteja fora do raio, ser· necess·rio utilizar um veÌculo.
+	1. **DIVERS√ÉO √â NECESS√ÅRIA O TEMPO TODO.**
+2. Sem Revers√µes/Carregamentos R√°pidos
+	1. Salvar antes de uma miss√£o √© permitido para levar em considera√ß√£o potenciais erros (crashing, kraken strikes).
+	2. Se um erro ocorrer, a miss√£o precisa ser reiniciada, caso contr√°rio, revers√µes ou carreg. r√°pidos n√£o s√£o permitidos.
+	3. Eligibilidade para recarregar sujeita √† vota√ß√£o do chat.
+3. Crafts s√≥ poder√£o ser recuperados se estiverem dentro do KSC (r = 2500 m).
+	1. Caso esteja fora do raio, ser√° necess√°rio utilizar um ve√≠culo.
 4. Arquivos Craft
 	1. Todos os crafts devem ser feitos em casa.
-	2. Crafts podem ser comprados de outros saves (de acordo com a relev‚ncia da miss„o atual).
-		- O custo do craft È dobrado e depois arredondado para cima para o m˙ltiplo de 100,000 mais prÛximo.
-		- Missıes de validaÁ„o s„o necess·rias para comprovar a seguranÁa do craft.
-		- Se aplic·vel, equipamentos de suporte no solo devem ser feitos para o craft.
-	3. Engineering Mode e saves de testes n„o s„o permitidos.
+	2. Crafts podem ser comprados de outros saves (de acordo com a relev√¢ncia da miss√£o atual).
+		- O custo do craft √© dobrado e depois arredondado para cima para o m√∫ltiplo de 100,000 mais pr√≥ximo.
+		- Miss√µes de valida√ß√£o s√£o necess√°rias para comprovar a seguran√ßa do craft.
+		- Se aplic√°vel, equipamentos de suporte no solo devem ser feitos para o craft.
+	3. Engineering Mode e saves de testes n√£o s√£o permitidos.
 5. Kerbals
-	1. O valor da puniÁ„o È baseado na experiÍncia do Kerbal.
-	2. O valor base da puniÁ„o È de 250k. 100k adicionais para cada estrela.
+	1. O valor da puni√ß√£o √© baseado na experi√™ncia do Kerbal.
+	2. O valor base da puni√ß√£o √© de 250k. 100k adicionais para cada estrela.
 6. Warp Temporal
 	1. O save deve ser ''timewarpado" toda vez que for carregado a fim de transmitir. (1 dia no KSP = 6 horas, 4 dias no KSP = 24 horas)
-	2. Se uma queima planejada estiver dentro do warp rotineiro, o warp deve ser pausado atÈ a queima ser concluÌda.
-	3. Warps interplanet·rios n„o s„o permitidos (n„o h· restriÁıes de warps caso o craft esteja dentro de uma esfera de influÍncia).
+	2. Se uma queima planejada estiver dentro do warp rotineiro, o warp deve ser pausado at√© a queima ser conclu√≠da.
+	3. Warps interplanet√°rios n√£o s√£o permitidos (n√£o h√° restri√ß√µes de warps caso o craft esteja dentro de uma esfera de influ√™ncia).
 7. Financiamento/Objetivos do programa
- 	1. DireÁ„o do programa espacial/financimento ser· decidida pelo chat.
-		- Recompensa de 10% caso o programa seja concluÌdo dentro do prazo.
- 	2. Saves Mission Mode com fundos negativos ser„o avaliados por viewers dependendo do tipo de falha/condiÁ„o.
-	3. InjeÁ„o de dinheiro ser· decidida pelo chat e dever· ser paga.
-	4. EstratÈgias do Career Mode podem ser utilizadas (PrÈdio de Admin.).
-	5. FalÍncia: **-$1,000,000**
-	6. Despesas das missıes ser„o embolsadas.
+ 	1. Dire√ß√£o do programa espacial/financimento ser√° decidida pelo chat.
+		- Recompensa de 10% caso o programa seja conclu√≠do dentro do prazo.
+ 	2. Saves Mission Mode com fundos negativos ser√£o avaliados por viewers dependendo do tipo de falha/condi√ß√£o.
+	3. Inje√ß√£o de dinheiro ser√° decidida pelo chat e dever√° ser paga.
+	4. Estrat√©gias do Career Mode podem ser utilizadas (Pr√©dio de Admin.).
+	5. Fal√™ncia: **-$1,000,000**
+	6. Despesas das miss√µes ser√£o embolsadas.
 8. Prazos
-	1. Prazos ser„o implementados de acordo com o programa espacial.
-	2. Caso um prazo seja ultrapassado, o chat decidir· se haver· uma prorrogaÁ„o.
-	3. Se a extens„o de um programa for aprovada, a perda de 10 Rep. ser· efetivada.
-	4. Caso a descontinuaÁ„o de um programa seja decidida, ele ser· abandonado e um novo programa dever· ser escolhido.
-	5. Todos os Kerbals do programa dever„o retornar ‡ Kerbin.
-	6. Programas cancelados resultar„o em uma puniÁ„o de -50 Rep.
-9. Log das missıes/KerbalX/Vods
-	1. Todos os lanÁamentos dever„o ser registrados.
+	1. Prazos ser√£o implementados de acordo com o programa espacial.
+	2. Caso um prazo seja ultrapassado, o chat decidir√° se haver√° uma prorroga√ß√£o.
+	3. Se a extens√£o de um programa for aprovada, a perda de 10 Rep. ser√° efetivada.
+	4. Caso a descontinua√ß√£o de um programa seja decidida, ele ser√° abandonado e um novo programa dever√° ser escolhido.
+	5. Todos os Kerbals do programa dever√£o retornar √† Kerbin.
+	6. Programas cancelados resultar√£o em uma puni√ß√£o de -50 Rep.
+9. Log das miss√µes/KerbalX/Vods
+	1. Todos os lan√ßamentos dever√£o ser registrados.
 	2. Crafts no status operacional devem ser enviados ao KerbalX.
 	3. Screenshots para acompanhar os registros.
 	4. Todos os VODs do Mission Mode precisam ser destacados.
-10. Locais de LanÁamentos
-	1. Outros locais de lanÁamentos s„o permitidos, mas dentro da mec‚nica ''NÈvoa da Guerra".
-	2. VocÍ precisa ''descobrir'' o local de lanÁamento para utiliz·-lo.
-	3. Locais de lanÁamentos extras custam dinheiro.
+10. Locais de Lan√ßamentos
+	1. Outros locais de lan√ßamentos s√£o permitidos, mas dentro da mec√¢nica ''N√©voa da Guerra".
+	2. Voc√™ precisa ''descobrir'' o local de lan√ßamento para utiliz√°-lo.
+	3. Locais de lan√ßamentos extras custam dinheiro.
 		- Aeroporto abandonado: $1,000,000
-		- Complexo de lanÁamento/Pista Dessert: $2,000,000
-		- Local de lanÁamento Woomerang: $500,000
-	4. CombustÌvel lÌquido/OXL devem ser gerados no local.(Sans CSK)
-	5. Equipamentos nucleares precisam ser lanÁados do CSK.
+		- Complexo de lan√ßamento/Pista Dessert: $2,000,000
+		- Local de lan√ßamento Woomerang: $500,000
+	4. Combust√≠vel l√≠quido/OXL devem ser gerados no local.(Sans KSC)
+	5. Equipamentos nucleares precisam ser lan√ßados do KSC.
 11. Emendas
-	- Regras poder„o ser alteradas com 75% de votos do chat + aprovaÁ„o do streamer.
+	- Regras poder√£o ser alteradas com 75% de votos do chat + aprova√ß√£o do streamer.
