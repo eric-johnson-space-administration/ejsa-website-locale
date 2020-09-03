@@ -22,7 +22,7 @@
 	2. If a burn is planned on a mission during the timewarp then the timewarping will be stopped until after the burn has been done.
 	3. No Interplanetary timewarp, timewarp is unrestricted in a local planet's SOI.
 	4. A 4 Day timewarp is required between each test mission.
-   	1. RUDs (Rapid Unplanned Disassemblies) apply here as well.
+    1. RUDs (Rapid Unplanned Disassemblies) apply here as well.
 	5. Stopping between timewarps to check for "Commercial" contracts is allowed
 7. Funding/Program Goals:
  	1. Overall direction of space program/funding will be voted on in chat polls
