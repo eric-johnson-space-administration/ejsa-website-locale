@@ -1,4 +1,4 @@
-# INSTALL INSTRUCTIONS
+# Installation Instructions
 
 ## Download
 1. Download the Daytona track from [Google Drive](https://drive.google.com/uc?id=1xsSM3sgsCZxu33xQrnU7gC2VABhHu3wC&export=download) (Backup: [cosaofficial.pl](http://cosaofficial.pl/download/EJRA/rt_daytona.zip))
