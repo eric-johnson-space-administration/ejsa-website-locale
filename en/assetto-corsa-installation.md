@@ -2,7 +2,7 @@
 
 ## Download
 1. Download the Daytona track from [Google Drive](https://drive.google.com/uc?id=1xsSM3sgsCZxu33xQrnU7gC2VABhHu3wC&export=download) (Backup: [cosaofficial.pl](http://cosaofficial.pl/download/EJRA/rt_daytona.zip))
-2. Download the Le Mans track from [Google Drive](https://drive.google.com/file/d/1CFuZnorebQdKtN5Jc1f63JHo_0HqXxKV&export=download) (Original: [Race Department](https://www.racedepartment.com/downloads/circuit-24h-lemans-2017.2482/)) `lemans_2017_2.5.rar`
+2. Download the Le Mans track from [Google Drive](https://drive.google.com/uc?id=1CFuZnorebQdKtN5Jc1f63JHo_0HqXxKV&export=download) (Original: [Race Department](https://www.racedepartment.com/downloads/circuit-24h-lemans-2017.2482/)) `lemans_2017_2.5.rar`
 3. Download the EJ_RA NASCAR Pack from [Google Drive](https://drive.google.com/uc?id=1kGutalxVvuBBTtVXKvUoe6d_Wztgawlk&export=download) (Backup: [cosaofficial.pl](http://cosaofficial.pl/download/EJRA/2020_ejra_nascar_pack_1_0_1.zip)) `2020_ejra_nascar_pack.zip`
 4. Download the Helicorsa mod from: [assettocorsa.net](https://www.assettocorsa.net/forum/index.php?attachments/helicorsa_v7b-zip.114265) (Backup: [cosaofficial.pl](http://cosaofficial.pl/download/EJRA/helicorsa_v7b.zip)) `helicorsa_v7b.zip`
 
