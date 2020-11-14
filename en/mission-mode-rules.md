@@ -17,6 +17,7 @@
 5. Kerbals:
 	1. Penalty amount for a casualty is based off of kerbal experience.
 	2. Base $ penalty amount 250K, Additional 100K for each star a Kerbal has.
+	3. Kerbals can be hired for a fixed rate of 100k.
 6. Time Warp
 	1. Save must be timewarped 8 days into the future every time it is loaded for streaming. (1 KSP day = 6 hours. 4 KSP Days = 24 hrs)
 	2. If a burn is planned on a mission during the timewarp then the timewarping will be stopped until after the burn has been done.
@@ -60,6 +61,8 @@
 
 
 ## Changelog:
+**2020/11/14:**
+- Added rule 5.3 as voted by [this poll](https://ejsa.space/resources/poll/zJe8JZnX0hAcURgOzkvs/results)
 
 **2020/08/05:**
 - Amended rule 5.1
