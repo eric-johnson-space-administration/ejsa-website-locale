@@ -33,7 +33,8 @@ __For NASCAR:__
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB).
 2. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
-3. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
+3. Download `Lago Maggiore` from [Google Drive](https://drive.google.com/file/d/196h5P_E2qnIzJI-Un1nxat6NQLGopa9F/view?usp=sharing) (220MB).
+4. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
 
 ---
 
@@ -58,4 +59,15 @@ __To verify that you have the correct content installed:__
 7. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
 8. From that taskbar select following apps: `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar`.
 9. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
+10. **From now on launch the game via Content Manager to start a singleplayer session or join a server!**
 
+---
+
+### Optional setup
+__CrewChief:__
+1. Download CrewChief from [thecrewchief.org](http://thecrewchief.org/forum.php).
+2. Install the program and run it.
+3. Let it install all the program and voice pack updates (might need several restarts).
+4. In the top right corner choose your preferred name from the drop down list, preferred chief/spotter voices and select `Assetto Corsa (64bit)` from the `Game` list.
+5. Click `Start application` before launching the game.
+6. You should now hear your crew chief and spotter in-game.
