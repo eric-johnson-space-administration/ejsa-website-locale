@@ -59,4 +59,3 @@ __To verify that you have the correct content installed:__
 8. From that taskbar select following apps: `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar`.
 9. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hover over).
 
----
