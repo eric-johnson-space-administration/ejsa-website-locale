@@ -57,5 +57,5 @@ __To verify that you have the correct content installed:__
 6. When in the race, click the `DRIVE` button on the left (steering wheel icon).
 7. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
 8. From that taskbar select following apps: `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar`.
-9. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hover over).
+9. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
 
