@@ -20,7 +20,7 @@
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options here).
-6. By default CSP auto-updates to the newest `recommended` version.
+6. By default CSP auto-updates to the newest recommended version.
 
 ---
 
@@ -38,7 +38,7 @@ __For road courses:__
 
 ---
 
-### Set controls via Content Manager
+## Set controls via Content Manager
 1. Top right of CM, click `SETTINGS`.
 2. Top left of CM, select `ASSETTO CORSA`.
 2. Left menu, select `CONTROLS`.
@@ -63,7 +63,7 @@ __To verify that you have the correct content installed:__
 
 ---
 
-### Optional setup
+## Optional setup
 __CrewChief:__
 1. Download CrewChief from [thecrewchief.org](http://thecrewchief.org/forum.php).
 2. Install the program and run it.
