@@ -26,12 +26,13 @@
 
 ## Download and install mods
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1V9PyZGIiGlIlUHpNCIUGr2aki5FRW1pe/view?usp=sharing) (161MB).
-2. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1xn7VehnWmTNBNoSvgv3MQLXI1B9MRAqx/view?usp=sharing) (20MB).
-3. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
+1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1_NKsOE6A6LktRrlV9TgsT_pWCsZKIIHK/view?usp=sharing) (2.0b3, 124MB).
+2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1A2WCOkYG6WdwLcQLbUbpsiwcbRlCVEk0/view?usp=sharing) (1.1, 35MB)
+3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1xn7VehnWmTNBNoSvgv3MQLXI1B9MRAqx/view?usp=sharing) (20MB).
+4. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
-1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB).
+1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (v1, 2.84GB).
 2. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 3. Download `Lago Maggiore` from [Google Drive](https://drive.google.com/file/d/196h5P_E2qnIzJI-Un1nxat6NQLGopa9F/view?usp=sharing) (220MB).
 4. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
