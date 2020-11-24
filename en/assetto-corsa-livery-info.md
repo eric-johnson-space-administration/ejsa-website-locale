@@ -1,8 +1,7 @@
 # Livery info
 ## Livery templates
-Firstly, here's a spreadsheet with all the available and reserved car numbers.  
-If you're going to use a custom livery please let us know and we'll reserve a number for you.  
-It's first come, first serve as there's really no better way to do this.
+Firstly, if you're going to use a custom livery please reserve the number through the [Livery Submission](https://ejsa.space/games/assetto/livery-submit) page.  
+Here's a temporary spreadsheet with all the reserved car numbers. 
 
 [Google Docs](https://docs.google.com/spreadsheets/d/1VBlGMenDzSyw7FgVKSSwu8EjR8U9fzolCj8kF4WGozA/edit?usp=sharing)
 
