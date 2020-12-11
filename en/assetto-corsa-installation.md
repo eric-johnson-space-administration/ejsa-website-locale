@@ -26,16 +26,18 @@
 
 ## Download and install mods
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1_NKsOE6A6LktRrlV9TgsT_pWCsZKIIHK/view?usp=sharing) (124MB) [v2.0b3].
+1. Download `EJRA NASCAR Pack` from [Google Drive]() (130MB) [v2.0b4].
 2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1aUKaSCow4gJ6WpQ-I2kzDs-N7T943Lp8/view?usp=sharing) (39MB) [v1.2].
 3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1xn7VehnWmTNBNoSvgv3MQLXI1B9MRAqx/view?usp=sharing) (20MB).
 4. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB) [v1].
-2. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
-3. Download `Lago Maggiore` from [Google Drive](https://drive.google.com/file/d/196h5P_E2qnIzJI-Un1nxat6NQLGopa9F/view?usp=sharing) (220MB).
-4. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
+2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/12Ot2F_LtxoRQocWFzN517GJO3olYiuWf/view?usp=sharing) (86MB) [v2.0b2].
+3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
+4. Download `Lago Maggiore` from [Google Drive](https://drive.google.com/file/d/196h5P_E2qnIzJI-Un1nxat6NQLGopa9F/view?usp=sharing) (220MB).
+5. Download `RSS Formula Hybrid 2017` from [Google Drive](https://drive.google.com/file/d/1P--TdoYfOlv4d1hv_sV12NTfwCQi4ALi/view?usp=sharing) (264MB).
+6. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
 
 ---
 
@@ -51,16 +53,17 @@ __For road courses:__
 
 ## Verification and preparation
 __To verify that you have the correct content installed:__
-1. Go to start a quick race.
-2. Verify that you can see `NASCAR Chevrolet Camaro Cup` and `NASCAR Ford Mustang Cup` and other mod cars in the car selection.
-3. Verify that you can see `Talladega` and other mod tracks in the track selection.
-4. Start any race.
-5. Make sure your controller works as expected.
-6. When in the race, click the `DRIVE` button on the left (steering wheel icon).
-7. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
-8. From that taskbar select following apps: `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar`.
-9. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
-10. **From now on launch the game via Content Manager to start a singleplayer session or join a server!**
+1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the box next to `Car Radar` is checked on.
+2. Go to start a quick race.
+3. Verify that you can see `NASCAR Chevrolet Camaro Cup` and `NASCAR Ford Mustang Cup` and other mod cars in the car selection.
+4. Verify that you can see `Talladega` and other mod tracks in the track selection.
+5. Start any race.
+6. Make sure your controller works as expected.
+7. When in the race, click the `DRIVE` button on the left (steering wheel icon).
+8. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
+9. From that taskbar select following apps: `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar`.
+10. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
+11. **From now on launch the game via Content Manager to start a singleplayer session or join a server!**
 
 ---
 
