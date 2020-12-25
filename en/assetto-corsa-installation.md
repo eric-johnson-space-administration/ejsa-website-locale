@@ -36,7 +36,7 @@ __For road courses:__
 2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/12Ot2F_LtxoRQocWFzN517GJO3olYiuWf/view?usp=sharing) (86MB) [v2.0b2].
 3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 4. Download `Lago Maggiore` from [Google Drive](https://drive.google.com/file/d/196h5P_E2qnIzJI-Un1nxat6NQLGopa9F/view?usp=sharing) (220MB).
-5. Download `RSS Formula Hybrid 2017` from [Google Drive](https://drive.google.com/file/d/1P--TdoYfOlv4d1hv_sV12NTfwCQi4ALi/view?usp=sharing) (264MB).
+5. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 6. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
 
 ---
