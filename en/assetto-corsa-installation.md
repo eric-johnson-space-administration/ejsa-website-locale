@@ -26,7 +26,7 @@
 
 ## Download and install mods
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1-Sd0K4sNg7A880BfXmodVXqqx6tu3HB9/view?usp=sharing) (186MB) [v2.0b6].
+1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1Ko8p8-Ru2iLPpotBvwVHjzrkczLpHPUc/view?usp=sharing) (172MB) [v2.0.7].
 2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1_ebC5At-glAXMPWDVJ5KsEmH5H4vBnnH/view?usp=sharing) (41MB) [v1.5].
 3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1xn7VehnWmTNBNoSvgv3MQLXI1B9MRAqx/view?usp=sharing) (20MB).
 4. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
