@@ -28,8 +28,9 @@
 __For NASCAR:__
 1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/196fOz98v8G-52m7KsEV25DhbRq9EeBw_/view?usp=sharing) (178MB) [v2.0.7].
 2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1_ebC5At-glAXMPWDVJ5KsEmH5H4vBnnH/view?usp=sharing) (41MB) [v1.5].
-3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1xn7VehnWmTNBNoSvgv3MQLXI1B9MRAqx/view?usp=sharing) (20MB).
-4. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
+3. Download `EJRA NASCAR Pace Car` from [Google Drive](https://drive.google.com/file/d/1tXNKMTwS0ZX6C7OxRQ0k3DOOA_Hy2PED/view?usp=sharing) (2MB) [1.0].
+4. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1NqPpVZIGH_VaUG8u-ghdYQml691acCny/view?usp=sharing) (92MB) [2.0 beta].
+5. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB) [v1].
