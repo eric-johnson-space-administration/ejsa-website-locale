@@ -31,7 +31,7 @@ __For NASCAR:__
 3. Download `EJRA NASCAR Pace Car` from [Google Drive](https://drive.google.com/file/d/1tXNKMTwS0ZX6C7OxRQ0k3DOOA_Hy2PED/view?usp=sharing) (2MB) [1.0].
 4. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1NqPpVZIGH_VaUG8u-ghdYQml691acCny/view?usp=sharing) (92MB) [2.0 beta].
 5. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
-6. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1KXWe6G1MUzudMKfUF_eJ4OGi8FA74pm2/view?usp=sharing) (2MB) [1.01.00].
+6. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB) [v1].
