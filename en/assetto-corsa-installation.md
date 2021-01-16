@@ -20,20 +20,21 @@
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options here).
+6. **CSP is required to run `EJRA NASCAR Pack` and `EJRA Ligier JS P3` due to both using extended physics!**
 
 ---
 
 ## Download and install mods
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1qpIDubIrPpgdL5WGPxQYRTZrMX8dAPCI/view?usp=sharing) (183MB) [v2.0.8].
-2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1K5jf53tMqzhQHS4FU-NlnNw9OInzq0vi/view?usp=sharing) (41MN) [v1.6].
-3. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/1tXNKMTwS0ZX6C7OxRQ0k3DOOA_Hy2PED/view?usp=sharing) (2MB) [1.0].
+1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1D-IYtFllMjHjeHO12KaJOE4c8QzkkTj_/view?usp=sharing) (183MB) [v2.0.10].
+2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1K5jf53tMqzhQHS4FU-NlnNw9OInzq0vi/view?usp=sharing) (41MB) [v1.6].
+3. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
 4. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [v2.0].
 5. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB) [v1].
-2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/18PrttEwEoZumtY4NofLdmLa4cb4tQj68/view?usp=sharing) (76MB) [v2.0.4].
+2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/1zcrOaUjaa8Q-xIyNmch_YW78ACZUYdpF/view?usp=sharing) (90MB) [v2.0.5].
 3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 4. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 5. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
