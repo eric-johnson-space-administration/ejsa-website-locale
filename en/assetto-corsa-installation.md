@@ -55,7 +55,7 @@ __For road courses:__
 __To verify that you have the correct content installed:__
 1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the box next to `Car Radar` is checked on.
 2. Go to start a quick race.
-3. Verify that you can see `NASCAR Chevrolet Camaro Cup` and `NASCAR Ford Mustang Cup` and other mod cars in the car selection.
+3. Verify that you can see `[NASCAR] Chevrolet Camaro` and `[NASCAR] Ford Mustang` and other mod cars in the car selection.
 4. Verify that you can see `Talladega` and other mod tracks in the track selection.
 5. Start any race.
 6. Make sure your controller works as expected.
