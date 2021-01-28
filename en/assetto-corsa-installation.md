@@ -33,7 +33,7 @@ __For NASCAR:__
 5. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
-1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1n1387DfT3fJF23fq9dG5EqQmCa9liY86/view?usp=sharing) (2.84GB) [v1].
+1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1AgpMFCGdhYvxIdA9fwXc6slBOLXnHpVh/view?usp=sharing) (3.55GB) [v2].
 2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/1zcrOaUjaa8Q-xIyNmch_YW78ACZUYdpF/view?usp=sharing) (90MB) [v2.0.5].
 3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 4. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
