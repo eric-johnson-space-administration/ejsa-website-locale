@@ -25,11 +25,13 @@
 ---
 
 ## Download and install mods
+1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
+2. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
+
 __For NASCAR:__
 1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/16C0vSLmCY_vAZOj0tI14prWEWvVzxfou/view?usp=sharing) (183MB) [v2.0.11].
 2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
 3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [v2.0].
-4. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1AgpMFCGdhYvxIdA9fwXc6slBOLXnHpVh/view?usp=sharing) (3.55GB) [v2].
@@ -53,7 +55,7 @@ __For road courses:__
 
 ## Verification and preparation
 __To verify that you have the correct content installed:__
-1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the box next to `Car Radar` is checked on.
+1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the boxes next to `Real Penalty` and `Car Radar` are checked on.
 2. Go to start a quick race.
 3. Verify that you can see `[NASCAR] Chevrolet Camaro` and `[NASCAR] Ford Mustang` and other mod cars in the car selection.
 4. Verify that you can see `Talladega` and other mod tracks in the track selection.
@@ -61,7 +63,7 @@ __To verify that you have the correct content installed:__
 6. Make sure your controller works as expected.
 7. When in the race, click the `DRIVE` button on the left (steering wheel icon).
 8. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
-9. From that taskbar select following apps: `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar` (if not visible by default clikc the top most button for full list).
+9. From that taskbar select following apps: `Real Penalty`, `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar` (if not visible by default clikc the top most button for full list).
 10. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
 11. **From now on launch the game via Content Manager to start a singleplayer session or join a server!**
 
