@@ -30,13 +30,13 @@
 2. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/16C0vSLmCY_vAZOj0tI14prWEWvVzxfou/view?usp=sharing) (183MB) [v2.0.11].
+1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1dwva7ODuQr1wI5JyRUnYGi6D9TQlcuOb/view?usp=sharing) (192MB) [v2.0.12].
 2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
 3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [v2.0].
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1AgpMFCGdhYvxIdA9fwXc6slBOLXnHpVh/view?usp=sharing) (3.55GB) [v2].
-2. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive]() (90MB) [v2.0.5].~~
+2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/1NFAKlWvuYCQKf9_UNn92FZnGI32NyVqd/view?usp=sharing) (93MB) [v2.0.6].
 3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 4. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 5. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
@@ -64,9 +64,9 @@ __To verify that you have the correct content installed:__
 6. Make sure your controller works as expected.
 7. When in the race, click the `DRIVE` button on the left (steering wheel icon).
 8. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
-9. From that taskbar select following apps: `Real Penalty`, `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar` (if not visible by default clikc the top most button for full list).
+9. From that taskbar select following apps: `Real Penalty`, `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar` (if not visible by default click the top most button for full list).
 10. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
-11. **From now on launch the game via Content Manager to start a singleplayer session or join a server!**
+11. **From now on launch the game only via Content Manager to start a singleplayer session or to join a server!**
 
 ---
 
