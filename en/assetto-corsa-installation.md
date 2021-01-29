@@ -27,17 +27,17 @@
 ## Download and install mods
 __For NASCAR:__
 1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/16C0vSLmCY_vAZOj0tI14prWEWvVzxfou/view?usp=sharing) (183MB) [v2.0.11].
-2. Download `EJRA NASCAR Livery Pack` from [Google Drive](https://drive.google.com/file/d/1K5jf53tMqzhQHS4FU-NlnNw9OInzq0vi/view?usp=sharing) (41MB) [v1.6].
-3. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
-4. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [v2.0].
-5. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
+2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
+3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [v2.0].
+4. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1AgpMFCGdhYvxIdA9fwXc6slBOLXnHpVh/view?usp=sharing) (3.55GB) [v2].
-2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/1zcrOaUjaa8Q-xIyNmch_YW78ACZUYdpF/view?usp=sharing) (90MB) [v2.0.5].
+2. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive]() (90MB) [v2.0.5].~~
 3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 4. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 5. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
+6. Download `TMM Renault Clio RS Cup` from [Google Drive](https://drive.google.com/file/d/1yG7pSAZaurK7VXs71Hx2T0jOSvzCuT1Y/view?usp=sharing) (36MB).
 
 ---
 
