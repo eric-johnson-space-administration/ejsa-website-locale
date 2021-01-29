@@ -11,6 +11,7 @@
 ## How to install mods
 1. Drag and drop the mod archive (.zip/.rar/.7z file) onto Content Manager (cursor should change when in correct place).
 2. Top right of CM, click a green "burger button" (3 horizontal lines). Then click `Install` where it lists the mod.
+    - **TIP:** You can expand each mod scheduled to install and choose a clean installation from a drop down menu IF that is required (and only then!).
 3. Wait until installation completes!
 
 
