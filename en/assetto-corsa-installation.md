@@ -16,8 +16,8 @@
 
 
 ## Install Custom Shaders Patch
-1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.71) (version 0.1.71).
-2. Install it as a mod `lights-patch-v0.1.71zip` (see above).
+1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.68) (version 0.1.68).
+2. Install it as a mod `lights-patch-v0.1.68.zip` (see above).
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
