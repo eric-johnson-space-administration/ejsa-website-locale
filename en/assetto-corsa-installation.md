@@ -20,7 +20,7 @@
 2. Install it as a mod `lights-patch-v0.1.71zip` (see above).
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
-5. In this menu, CSP should now appear as installed (you can now configure its options here).
+5. In this menu, CSP should now appear as installed (you can now configure its options there).
 6. **CSP is required to run `EJRA NASCAR Pack` and `EJRA Ligier JS P3` due to both using extended physics!**
 
 ---
