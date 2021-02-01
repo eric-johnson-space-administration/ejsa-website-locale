@@ -21,7 +21,7 @@
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
-6. **CSP is required to run `EJRA NASCAR Pack` and `EJRA Ligier JS P3` due to both using extended physics!**
+6. **CSP is required to run** `EJRA NASCAR Pack` **and** `EJRA Ligier JS P3` **due to both using extended physics!**
 
 ---
 
