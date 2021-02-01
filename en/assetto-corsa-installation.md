@@ -55,11 +55,11 @@ __For road courses:__
 
 ## Verification and preparation
 __To verify that you have the correct content installed:__
-1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the box next to `Real Penalty` is hecked on.
-2. Go to start a quick race.
+1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the box next to `Real Penalty` is checked on.
+2. Go to `DRIVE` and then `single`.
 3. Verify that you can see all modded cars in the car selection.
 4. Verify that you can see all modded tracks in the track selection.
-5. Start any singleplayer session for example practice).
+5. Start any session.
 6. Make sure your controller works as expected.
 7. When in the race, click the `DRIVE` button on the left (steering wheel icon).
 8. When in the car, mouse over to the very right edge of the screen, an App Taskbar should appear.
