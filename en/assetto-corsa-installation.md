@@ -16,8 +16,8 @@
 
 
 ## Install Custom Shaders Patch
-1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.68) (version 0.1.68).
-2. Install it as a mod `lights-patch-v0.1.68.zip` (see above).
+1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.71 (version 0.1.71.
+2. Install it as a mod `lights-patch-v0.1.71zip` (see above).
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options here).
@@ -27,7 +27,6 @@
 
 ## Download and install mods
 1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
-2. Download `Car Radar` from [Google Drive](https://drive.google.com/file/d/1WIuSABrA-mefJI1GfibTMYnT4QwM6N7O/view?usp=sharing) (0.1MB).
 
 __For NASCAR:__
 1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1dwva7ODuQr1wI5JyRUnYGi6D9TQlcuOb/view?usp=sharing) (192MB) [v2.0.12].
@@ -40,7 +39,7 @@ __For road courses:__
 3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 4. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 5. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
-6. Download `TMM Renault Clio RS Cup` from [Google Drive](https://drive.google.com/file/d/1yG7pSAZaurK7VXs71Hx2T0jOSvzCuT1Y/view?usp=sharing) (36MB).
+6. Download `TMM Renault Clio RS Cup` from [Google Drive](https://drive.google.com/file/d/1yG7pSAZaurK7VXs71Hx2T0jOSvzCuT1Y/view?usp=sharing) (36MB) [1.0].
 
 ---
 
@@ -56,16 +55,16 @@ __For road courses:__
 
 ## Verification and preparation
 __To verify that you have the correct content installed:__
-1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the boxes next to `Real Penalty` and `Car Radar` are checked on.
+1. Go to `SETTINGS`, then `ASSETTO CORSA`, then `APPS` and make sure the box next to `Real Penalty` is hecked on.
 2. Go to start a quick race.
-3. Verify that you can see `[NASCAR] Chevrolet Camaro` and `[NASCAR] Ford Mustang` and other mod cars in the car selection.
-4. Verify that you can see `Talladega` and other mod tracks in the track selection.
-5. Start any race.
+3. Verify that you can see all modded cars in the car selection.
+4. Verify that you can see all modded tracks in the track selection.
+5. Start any singleplayer session for example practice).
 6. Make sure your controller works as expected.
 7. When in the race, click the `DRIVE` button on the left (steering wheel icon).
-8. When in the car, mouse over to the right edge of the screen, an App Taskbar should appear.
-9. From that taskbar select following apps: `Real Penalty`, `Performance Delta`, `Race Position`, `Realtime`, `Tyres` and `carRadar` (if not visible by default click the top most button for full list).
-10. Position them as desired on the screen and lock them in place if needed (`carRadar` may be hard to find as it invisible unless hovered over).
+8. When in the car, mouse over to the very right edge of the screen, an App Taskbar should appear.
+9. From that taskbar select following apps: `Real Penalty`, `Realtime` and `Tyres` (if not visible by default click the top most button for full list).
+10. Position them as desired on the screen and lock them in place if needed.
 11. **From now on launch the game only via Content Manager to start a singleplayer session or to join a server!**
 
 ---
