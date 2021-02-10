@@ -13,6 +13,8 @@ If any help is required or you don't know how to make a livery but want one, ple
 
 [NASCAR Mustang - Livery Template](http://cosaofficial.pl/download/EJRA/mustang_skin.zip)
 
+[Ligier JS P2/3 - Livery Template](http://cosaofficial.pl/download/EJRA/Ligier_JS_PX_Livery_Template.zip)
+
 ---
 
 # Livery rules
