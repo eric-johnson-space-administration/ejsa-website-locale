@@ -17,29 +17,40 @@
 
 ## Install Custom Shaders Patch
 1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.68) (version 0.1.68).
-2. Install it as a mod `lights-patch-v0.1.68.zip` (see above).
+2. Install `lights-patch-v0.1.68.zip` as a mod (see above).
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
 6. **CSP is required to run** `EJRA NASCAR Pack` **and** `EJRA Ligier JS P3` **due to both using extended physics!**
 
+## Install Sol
+1. Download Sol from [Google Drive](https://drive.google.com/file/d/1bBU0gtvQjp157r7VEAS5S9xEYdlI-2_s/view?usp=sharing) (216MB) [2.0.2].
+2. **DO NOT INSTALL THROUGH `CONTENT MANAGER`!!!**
+3. Use [this install guide](https://www.dropbox.com/s/7c1zklm806xbmy3/Sol%202_0%20install%20guide.pdf) or follow below steps.
+4. Open archive, copy `soluninstall.bat` to main AC directory and run it (usually as admin).
+5. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
+6. In `SETTINGS > ASSETTO CORSA > VIDEO` in the top right set the `Filter:` option to `__Sol`.
+7. In `SETTINGS > CUSTOM SHADERS PATCH > WEATHER FX` make sure both `Controller script:` and `Weather script:` options are set to `Sol`.
 ---
 
 ## Download and install mods
+
 1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
 
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1dwva7ODuQr1wI5JyRUnYGi6D9TQlcuOb/view?usp=sharing) (192MB) [v2.0.12].
+1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1QfaOe1KGKj8lw_Wr2VzfYgxnG9-ATiRI/view?usp=sharing) (193MB) [v2.0.13].
 2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
-3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [v2.0].
+3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [2.0].
+4. Donwload `RT Daytona - EJRA Edit` from [Google Drive](https://drive.google.com/file/d/1m_lknzTUv0R9SXE--6LypTkQkbQh1nTR/view?usp=sharing) (617MB) [1.3.EJRA].
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1AgpMFCGdhYvxIdA9fwXc6slBOLXnHpVh/view?usp=sharing) (3.55GB) [v2].
-2. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/1NFAKlWvuYCQKf9_UNn92FZnGI32NyVqd/view?usp=sharing) (93MB) [v2.0.6].
-3. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
-4. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
-5. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
-6. Download `TMM Renault Clio RS Cup` from [Google Drive](https://drive.google.com/file/d/1yG7pSAZaurK7VXs71Hx2T0jOSvzCuT1Y/view?usp=sharing) (36MB) [1.0].
+2. Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive](https://drive.google.com/file/d/1F_YZRHRrxmt2WoAfbwk6DaeJPFKkV48R/view?usp=sharing) 79MN) [1.0.0]
+3. Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://drive.google.com/file/d/1NFAKlWvuYCQKf9_UNn92FZnGI32NyVqd/view?usp=sharing) (93MB) [2.0.6].
+4. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
+5. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
+6. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
+7. Download `TMM Renault Clio RS Cup` from [Google Drive](https://drive.google.com/file/d/1yG7pSAZaurK7VXs71Hx2T0jOSvzCuT1Y/view?usp=sharing) (36MB) [1.0].
 
 ---
 
