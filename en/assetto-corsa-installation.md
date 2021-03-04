@@ -44,9 +44,9 @@ __For NASCAR:__
 4. Donwload `EJRA RT Daytona` from [Google Drive](https://drive.google.com/file/d/1b8rjNkOELWP0Ujn5uLZQr2lZpBvD8Dsn/view?usp=sharing) (617MB) [1.3.0.D].
 
 __For road courses:__
-1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1AgpMFCGdhYvxIdA9fwXc6slBOLXnHpVh/view?usp=sharing) (3.55GB) [v2].
-2. ~~Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive]() 79MN) [1.0.0]~~
-3. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive]() (93MB) [2.0.6].~~
+1. ~~Download `EJRA Track Pack NA` from [Google Drive]() (3.55GB) [v3].~~
+2. ~~Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive]() (79MB) [1.0.1]~~
+3. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive]() (93MB) [2.0.7].~~
 4. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 5. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 6. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
