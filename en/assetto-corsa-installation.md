@@ -25,7 +25,7 @@
 
 ## Install Sol
 1. Download Sol from [Google Drive](https://drive.google.com/file/d/1bBU0gtvQjp157r7VEAS5S9xEYdlI-2_s/view?usp=sharing) (216MB) [2.0.2].
-2. **DO NOT INSTALL THROUGH `CONTENT MANAGER`!!!**
+2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
 3. Use [this install guide](https://www.dropbox.com/s/7c1zklm806xbmy3/Sol%202_0%20install%20guide.pdf) or follow below steps.
 4. Open archive, copy `soluninstall.bat` to main AC directory and run it (usually as admin).
 5. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
