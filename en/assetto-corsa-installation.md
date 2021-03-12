@@ -38,10 +38,10 @@
 1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
 
 __For NASCAR:__
-1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1DfzieJeOc_5M35tg3v_yWn3upowbNL-_/view?usp=sharing) (388MB) [v2.1.0].
+1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1Z9XaDbpZ3DIcA5NgTWSIUTNcxwwNnUiF/view?usp=sharing) (388MB) [v2.1.1].
 2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
 3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [2.0].
-4. Donwload `EJRA RT Daytona` from [Google Drive](https://drive.google.com/file/d/1b8rjNkOELWP0Ujn5uLZQr2lZpBvD8Dsn/view?usp=sharing) (617MB) [1.3.0.D].
+4. ~~Donwload `EJRA RT Daytona` from [Google Drive]() (617MB) [1.3.1].~~
 
 __For road courses:__
 1. ~~Download `EJRA Track Pack NA` from [Google Drive](https://ejsa.space/games/assetto/installation) (3.55GB) [v3].~~
