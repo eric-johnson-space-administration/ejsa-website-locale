@@ -41,10 +41,9 @@ __For NASCAR:__
 1. Download `EJRA NASCAR Pack` from [Google Drive](https://drive.google.com/file/d/1Z9XaDbpZ3DIcA5NgTWSIUTNcxwwNnUiF/view?usp=sharing) (388MB) [v2.1.1].
 2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
 3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [2.0].
-4. ~~Donwload `EJRA RT Daytona` from [Google Drive]() (617MB) [1.3.1].~~
 
 __For road courses:__
-1. ~~Download `EJRA Track Pack NA` from [Google Drive](https://ejsa.space/games/assetto/installation) (3.55GB) [v3].~~
+1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1M9FcAmgXSxLy6kgTme2O_DNVgxIfK0i9/view?usp=sharing) (3.72GB) [v3].
 2. ~~Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive](https://ejsa.space/games/assetto/installation) (79MB) [1.0.1]~~
 3. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://ejsa.space/games/assetto/installation) (93MB) [2.0.7].~~
 4. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
