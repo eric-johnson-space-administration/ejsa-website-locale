@@ -44,7 +44,7 @@ __For NASCAR:__
 
 __For road courses:__
 1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1M9FcAmgXSxLy6kgTme2O_DNVgxIfK0i9/view?usp=sharing) (3.72GB) [v3].
-2. Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive](https://drive.google.com/file/d/1SwOOSIJwSpz_TwAhqo4rOsiMF3nvwjJ7/view?usp=sharing) (79MB) [1.0.2]
+2. Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive](https://drive.google.com/file/d/18vRu3R4_RNW8EDiueFuSfPfa1RURg4-T/view?usp=sharing) (79MB) [1.0.3]
 3. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://ejsa.space/games/assetto/installation) (93MB) [2.0.7].~~
 4. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
 5. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
