@@ -50,6 +50,7 @@ __For road courses:__
 5. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
 6. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
 7. ~~Download `TMM Renault Clio RS Cup` from [Google Drive](https://ejsa.space/games/assetto/installation) (36MB) [1.1].~~
+8. Download `TMM Cupra Leon TCR` from [Google Drive](https://drive.google.com/file/d/1BqRgHNIE1LCcqgA0jFJlUlu5kmMwdkcV/view?usp=sharing) (99MB) [1.0].
 
 ---
 
