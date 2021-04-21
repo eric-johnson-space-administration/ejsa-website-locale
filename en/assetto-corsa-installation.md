@@ -37,20 +37,7 @@
 
 1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
 
-__For NASCAR:__
-1. Download `EJRA NASCAR Pack SPD` from [Google Drive](https://drive.google.com/file/d/1Bx7SAy9k4uAe3VsP3fdGrb6q2XuW8k5a/view?usp=sharing) (189MB) [v2.1.2].
-2. Download `EJRA NASCAR Pace Car Livery` from [Google Drive](https://drive.google.com/file/d/12Y5ykQaS8klG_VAgKtUX8opxQVSk7Eku/view?usp=sharing) (2MB) [1.0].
-3. Download `EJRA Talladega` from [Google Drive](https://drive.google.com/file/d/1P3vIZesmPL6Wgs5kZpqPyUSYG4e5GEj8/view?usp=sharing) (96MB) [2.0].
-
-__For road courses:__
-1. Download `EJRA Track Pack NA` from [Google Drive](https://drive.google.com/file/d/1M9FcAmgXSxLy6kgTme2O_DNVgxIfK0i9/view?usp=sharing) (3.72GB) [v3].
-2. Download `EJRA Ligier JS P2 (LMP2)` from [Google Drive](https://drive.google.com/file/d/18vRu3R4_RNW8EDiueFuSfPfa1RURg4-T/view?usp=sharing) (79MB) [1.0.3]
-3. ~~Download `EJRA Ligier JS P3 (LMP3)` from [Google Drive](https://ejsa.space/games/assetto/installation) (93MB) [2.0.7].~~
-4. Download `OSRW Extended Pits` from [Google Drive](https://drive.google.com/file/d/1m5lsExdaKg1vezcCIeCUqYJncfS9szfY/view?usp=sharing) (74MB).
-5. Download `RSS Formula Hybrid 2018` from [Google Drive](https://drive.google.com/file/d/1qpZSus0qKqsGieKIT9sZF9zl7DkIg0L7/view?usp=sharing) (497MB).
-6. Download `Formula RSS3 V6` from [Google Drive](https://drive.google.com/file/d/11FLQ9ZMcFR1qyoIDXRCeZBfghkk1q-eD/view?usp=sharing) (128MB).
-7. ~~Download `TMM Renault Clio RS Cup` from [Google Drive](https://ejsa.space/games/assetto/installation) (36MB) [1.1].~~
-8. Download `TMM Cupra Leon TCR` from [Google Drive](https://drive.google.com/file/d/1BqRgHNIE1LCcqgA0jFJlUlu5kmMwdkcV/view?usp=sharing) (99MB) [1.0].
+Car and track mods can be found in the [EJRA Mod Repository](https://docs.google.com/spreadsheets/d/10psJVkdx8xTzh11Z2sPgKfM2MYrmaN7Xlw1q_piniNE/edit?usp=sharing).
 
 ---
 
