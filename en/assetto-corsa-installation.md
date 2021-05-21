@@ -24,13 +24,13 @@
 6. **CSP is required to run** `EJRA NASCAR Pack` **and** `EJRA Ligier JS P3` **due to both using extended physics!**
 
 ## Install Sol
-1. Download Sol from [Google Drive](https://drive.google.com/file/d/1bBU0gtvQjp157r7VEAS5S9xEYdlI-2_s/view?usp=sharing) (216MB) [2.0.2].
+1. Download Sol from [Google Drive](https://drive.google.com/file/d/12YFXHdoJ0CnD0m8V3rBTHQiV8sR-sUUs/view?usp=sharing) (243MB) [2.1].
 2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
-3. Use [this install guide](https://www.dropbox.com/s/7c1zklm806xbmy3/Sol%202_0%20install%20guide.pdf) or follow below steps.
+3. Use [this install guide](https://www.dropbox.com/s/hjm0woo5yuy6xtp/Sol%202.1%20install%20guide.pdf) or follow below steps.
 4. Open archive, copy `soluninstall.bat` to main AC directory and run it (usually as admin).
 5. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
 6. In `SETTINGS > ASSETTO CORSA > VIDEO` in the top right set the `Filter:` option to `__Sol`.
-7. In `SETTINGS > CUSTOM SHADERS PATCH > WEATHER FX` make sure both `Controller script:` and `Weather script:` options are set to `Sol`.
+7. In `SETTINGS > CUSTOM SHADERS PATCH > WEATHER FX` make sure both `Controller script:` and `Weather script:` options are set to `Sol 2.1` and `Sol`.
 ---
 
 ## Download and install mods
