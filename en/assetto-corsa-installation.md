@@ -24,7 +24,7 @@
 6. **CSP is required to run** `EJRA NASCAR Pack` **and** `EJRA Ligier JS P3` **due to both using extended physics!**
 
 ## Install Sol
-1. Download Sol from [Google Drive](https://drive.google.com/file/d/12YFXHdoJ0CnD0m8V3rBTHQiV8sR-sUUs/view?usp=sharing) (243MB) [2.1].
+1. Download Sol from [Google Drive](https://drive.google.com/file/d/1in-PzUQkGqdaA1scdh_B7Q6g0KVAYRET/view?usp=sharing) (244MB) [2.1.1].
 2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
 3. Use [this install guide](https://www.dropbox.com/s/hjm0woo5yuy6xtp/Sol%202.1%20install%20guide.pdf) or follow below steps.
 4. Open archive, copy `soluninstall.bat` to main AC directory and run it (usually as admin).
