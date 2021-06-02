@@ -17,6 +17,11 @@ The links below go to amazon affiliate pages, a small portion of your purchase w
 
 [The Vagabonds: The Story of Henry Ford and Thomas Edison's Ten-Year Road Trip](https://amzn.to/34GpDxB)
 
+[Walt Disney and The Promise of Progress City](https://amzn.to/34GpXMP)
+
+[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/3g8N8EX)
+
+[Belichick: The Making of the Greatest Football Coach of All Time](https://amzn.to/3uFo9hG)
 
 # Technical Documents
 [PDFs]
