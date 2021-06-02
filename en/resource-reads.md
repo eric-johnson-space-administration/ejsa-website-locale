@@ -1,4 +1,4 @@
-# EJ_SA approved reading material
+# EJ_SA suggested reading material
 
 # Books
 The links below go to amazon affiliate pages, a small portion of your purchase will go towards supporting the stream.
