@@ -27,6 +27,15 @@ The links below go to amazon affiliate pages, a small portion of your purchase w
 
 [Belichick: The Making of the Greatest Football Coach of All Time](https://amzn.to/3uFo9hG)
 
+(The following links are not affilitate links)
+[Apollo: The Behind-the-Scenes Story of one of Humankind's Greatest Achievements](https://www.amazon.com/gp/product/0976000806)
+
+[Apollo 13 - Jim Lovell & Jeffrey Kluger](https://www.amazon.com/Apollo-13-Jim-Lovell/dp/0618619585)
+
+[Saturn V Flight Manual](https://www.amazon.com/Saturn-Flight-National-Aeronautics-Administration/dp/1945701129)
+
+[How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000819680X)
+
 ## Technical Documents
 [PDFs]
 
