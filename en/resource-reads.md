@@ -1,6 +1,10 @@
-# EJ_SA suggested reading material
+# EJ_SA Recommended Reads
 
-# Books
+## Contribute!
+Create a pull request on GitHub [here](https://github.com/eric-johnson-space-administration/ejsa-website-locale/blob/master/en/resource-reads.md)
+
+
+## Books
 The links below go to amazon affiliate pages, a small portion of your purchase will go towards supporting the stream.
 
 [Fundamentals of Aerospace](https://ejsa.io/foad)
@@ -23,8 +27,8 @@ The links below go to amazon affiliate pages, a small portion of your purchase w
 
 [Belichick: The Making of the Greatest Football Coach of All Time](https://amzn.to/3uFo9hG)
 
-# Technical Documents
+## Technical Documents
 [PDFs]
 
-# Technical Diagrams
+## Technical Diagrams
 [Images (not photos)]
