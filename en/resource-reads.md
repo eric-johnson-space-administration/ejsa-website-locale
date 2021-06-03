@@ -36,6 +36,16 @@ The links below go to amazon affiliate pages, a small portion of your purchase w
 
 [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000819680X)
 
+[Two Sides of the Moon: Our Story of the Cold War Space Race](https://www.amazon.com/Two-Sides-Moon-Story-Space/dp/0312308663)
+
+[Apollo 1: The Tragedy That Put Us on the Moon](https://www.amazon.com/dp/1684510945)
+
+[Comm Check...: The Final Flight of Shuttle Columbia](https://www.amazon.com/Comm-Check-Flight-Shuttle-Columbia/dp/1439101760)
+
+[Apollo 8: The Thrilling Story of the First Mission to the Moon](https://www.amazon.com/Apollo-Thrilling-Story-First-Mission/dp/1627798323)
+
+["Live from Cape Canaveral": Covering the Space Race, from Sputnik to Today](https://www.amazon.com/Live-Cape-Canaveral-Covering-Sputnik/dp/0061233935)
+
 ## Technical Documents
 [PDFs]
 
