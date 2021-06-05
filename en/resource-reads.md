@@ -33,11 +33,10 @@ Create a pull request on GitHub [here](https://github.com/eric-johnson-space-adm
 ### Misc Reads
 - [Belichick: The Making of the Greatest Football Coach of All Time](https://amzn.to/3uFo9hG) [AL]
 - [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000819680X)
-- [Turbocharger Jet Engine Build and Engineering Analysis](https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1014&context=mems500)
 
 
 ## Technical Documents
-[PDFs]
+- [Turbocharger Jet Engine Build and Engineering Analysis](https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1014&context=mems500)
 
 ## Technical Diagrams
 [Images (not photos)]
