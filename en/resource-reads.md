@@ -8,7 +8,7 @@ Create a pull request on GitHub [here](https://github.com/eric-johnson-space-adm
 [AL] means they go to amazon affiliate pages. A small portion of your purchase will go towards supporting the stream.
 
 ### Aerospace and Rocket science
-- [Fundamentals of Aerospace](https://ejsa.io/foad) [AL] 
+- [Fundamentals of Aerodynamics](https://ejsa.io/foad) [AL] 
 - [Michael Collins: Carrying The Fire](https://amzn.to/3cfO5Kx) [AL]
 - [Gene Kranz: Failure Is Not an Option](https://amzn.to/3cdeoks) [AL]
 - [Von Braun: Dreamer of Space, Engineer of War](https://amzn.to/2S4uPZu) [AL]
@@ -33,6 +33,7 @@ Create a pull request on GitHub [here](https://github.com/eric-johnson-space-adm
 ### Misc Reads
 - [Belichick: The Making of the Greatest Football Coach of All Time](https://amzn.to/3uFo9hG) [AL]
 - [How to Build a Car](https://www.amazon.com/How-Build-Car-Autobiography-Greatest/dp/000819680X)
+- [Turbocharger Jet Engine Build and Engineering Analysis](https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=1014&context=mems500)
 
 
 ## Technical Documents
