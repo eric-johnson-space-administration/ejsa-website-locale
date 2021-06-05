@@ -16,18 +16,18 @@
 
 
 ## Install Custom Shaders Patch
-1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.68) (version 0.1.68).
-2. Install `lights-patch-v0.1.68.zip` as a mod (see above).
+1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.73) (version 0.1.73).
+2. Install `lights-patch-v0.1.73.zip` as a mod (see above).
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
-6. **CSP is required to run** `EJRA NASCAR Pack` **and** `EJRA Ligier JS P3` **due to both using extended physics!**
+6. **CSP is required to run many cars due to them using extended physics!**
 
 ## Install Sol
-1. Download Sol from [Google Drive](https://drive.google.com/file/d/1in-PzUQkGqdaA1scdh_B7Q6g0KVAYRET/view?usp=sharing) (244MB) [2.1.1].
+1. Download Sol from [Google Drive](https://drive.google.com/file/d/1D6uK9EQFFG-TeGFxySi1YPnSGcyRs8Nu/view?usp=sharing) (238MB) [2.1.2].
 2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
 3. Use [this install guide](https://www.dropbox.com/s/hjm0woo5yuy6xtp/Sol%202.1%20install%20guide.pdf) or follow below steps.
-4. Open archive, copy `soluninstall.bat` to main AC directory and run it (usually as admin).
+4. Open archive, copy `soluninstall.bat` to main AC directory and run it, press Y to confirm cleaning of the user config.
 5. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
 6. In `SETTINGS > ASSETTO CORSA > VIDEO` in the top right set the `Filter:` option to `__Sol`.
 7. In `SETTINGS > CUSTOM SHADERS PATCH > WEATHER FX` make sure both `Controller script:` and `Weather script:` options are set to `Sol 2.1` and `Sol`.
