@@ -21,6 +21,7 @@
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
+
 **CSP is required to run many cars due to them using extended physics!**
 
 ## Install Sol
