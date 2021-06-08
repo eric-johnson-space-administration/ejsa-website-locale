@@ -21,22 +21,23 @@
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
-6. **CSP is required to run many cars due to them using extended physics!**
+**CSP is required to run many cars due to them using extended physics!**
 
 ## Install Sol
 1. Download Sol from [Google Drive](https://drive.google.com/file/d/1D6uK9EQFFG-TeGFxySi1YPnSGcyRs8Nu/view?usp=sharing) (238MB) [2.1.2].
 2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
-3. Use [this install guide](https://www.dropbox.com/s/hjm0woo5yuy6xtp/Sol%202.1%20install%20guide.pdf) or follow below steps.
-4. Open archive, copy `soluninstall.bat` to main AC directory and run it, press Y to confirm cleaning of the user config.
-5. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
-6. In `SETTINGS > ASSETTO CORSA > VIDEO` in the top right set the `Filter:` option to `__Sol`.
+3. Open archive, copy `soluninstall.bat` to main AC directory and run it, press `Y` if prompted to confirm cleaning of the user config.
+4. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
+5. In `SETTINGS > ASSETTO CORSA > VIDEO > Post-Processing:` set the `Filter:` option to `__Sol`.
+6. In `SETTINGS > ASSETTO CORSA > VIDEO > Reflections:` in the top right set the `Rendering frequency:` option to no higher than `Two faces per frame`.
 7. In `SETTINGS > CUSTOM SHADERS PATCH > WEATHER FX` make sure both `Controller script:` and `Weather script:` options are set to `Sol 2.1` and `Sol`.
 ---
 
 ## Download and install mods
 
 1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
-2. Car and track mods can be found in the [EJRA Mod Repository](https://docs.google.com/spreadsheets/d/10psJVkdx8xTzh11Z2sPgKfM2MYrmaN7Xlw1q_piniNE/edit?usp=sharing).
+2. 
+3. Car and track mods can be found in the [EJRA Mod Repository](https://docs.google.com/spreadsheets/d/10psJVkdx8xTzh11Z2sPgKfM2MYrmaN7Xlw1q_piniNE/edit?usp=sharing).
 
 ---
 
