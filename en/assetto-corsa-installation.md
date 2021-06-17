@@ -25,7 +25,7 @@
 **CSP is required to run many cars due to them using extended physics!**
 
 ## Install Sol
-1. Download Sol from [Google Drive](https://drive.google.com/file/d/1D6uK9EQFFG-TeGFxySi1YPnSGcyRs8Nu/view?usp=sharing) (238MB) [2.1.2].
+1. Download Sol from [Google Drive](https://drive.google.com/file/d/1s64KAs6UqamI265jh60-nRDlnYwYph3O/view?usp=sharing) (238MB) [2.1.3].
 2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
 3. Open archive, copy `soluninstall.bat` to main AC directory and run it, press `Y` if prompted to confirm cleaning of the user config.
 4. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
