@@ -37,8 +37,8 @@
 ## Download and install mods
 
 1. Download `Real Penalty` from [Google Drive](https://drive.google.com/file/d/1fAzb0O_pp3z3XZWRKPgEKSr9BDZe1GhB/view?usp=sharing) (2MB) [1.01.00].
-2. 
-3. Car and track mods can be found in the [EJRA Mod Repository](https://docs.google.com/spreadsheets/d/10psJVkdx8xTzh11Z2sPgKfM2MYrmaN7Xlw1q_piniNE/edit?usp=sharing).
+
+2. Car and track mods can be found in the [EJRA Mod Repository](https://docs.google.com/spreadsheets/d/10psJVkdx8xTzh11Z2sPgKfM2MYrmaN7Xlw1q_piniNE/edit?usp=sharing).
 
 ---
 
