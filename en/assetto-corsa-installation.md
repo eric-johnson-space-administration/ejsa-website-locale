@@ -16,8 +16,8 @@
 
 
 ## Install Custom Shaders Patch
-1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.73) (version 0.1.73).
-2. Install `lights-patch-v0.1.73.zip` as a mod (see above).
+1. Download Custom Shaders Patch (CSP) from [acstuff.ru](https://acstuff.ru/patch/?get=0.1.76) (version 0.1.76).
+2. Install `lights-patch-v0.1.76.zip` as a mod (see above).
 3. Top right of CM, click `SETTINGS`.
 4. Top left of CM, click `CUSTOM SHADERS PATCH`.
 5. In this menu, CSP should now appear as installed (you can now configure its options there).
@@ -25,7 +25,7 @@
 **CSP is required to run many cars due to them using extended physics!**
 
 ## Install Sol
-1. Download Sol from [Google Drive](https://drive.google.com/file/d/1s64KAs6UqamI265jh60-nRDlnYwYph3O/view?usp=sharing) (238MB) [2.1.3].
+1. Download Sol from [Google Drive](https://drive.google.com/file/d/1zhWB7pygc8qVZtyA9x_uxx50tH38Pgip/view?usp=sharing) (242MB) [2.2.1 beta 2].
 2. **DO NOT INSTALL THROUGH CONTENT MANAGER!!!**
 3. Open archive, copy `soluninstall.bat` to main AC directory and run it, press `Y` if prompted to confirm cleaning of the user config.
 4. Now copy the remaining folders of the archive into main AC directory and overwrite when asked!
