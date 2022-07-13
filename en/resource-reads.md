@@ -8,6 +8,7 @@ Create a pull request on GitHub [here](https://github.com/eric-johnson-space-adm
 [AL] means they go to amazon affiliate pages. A small portion of your purchase will go towards supporting the stream.
 
 ### Aerospace and Rocket science
+- [Modern Engineering for Design of Liquid Propellant Rocket Engines (Progress in Astronautics and Aeronautics)](https://www.amazon.com/Engineering-Liquid-Propellant-Progress-Astronautics-Aeronautics/dp/1563470136)
 - [Fundamentals of Aerodynamics](https://ejsa.io/foad) [AL] 
 - [Michael Collins: Carrying The Fire](https://amzn.to/3cfO5Kx) [AL]
 - [Gene Kranz: Failure Is Not an Option](https://amzn.to/3cdeoks) [AL]
